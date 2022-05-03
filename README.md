@@ -16,4 +16,4 @@ Term 2 group project for Modern Data Architectures for Big Data 2 class at IE un
 
 Classified Covid-19 tweets ingested in real-time using Apache Kafka with hyperparameter tuned Random Forest classifier trained on pre-labeled covid-19 fake news dataset stored in HDFS – achieved 70% accuracy on test set
 
-Built natural language processing pipeline (tokenizer, count vectorizer and TF-IDF) to transform data for ingestion by classification model.
+Built natural language processing pipeline (tokenizer, count vectorizer and TF-IDF) to transform data in order to extract relevant information from text and prepare correct format or ingestion by classification model.
