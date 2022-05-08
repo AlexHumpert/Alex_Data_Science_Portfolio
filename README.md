@@ -14,7 +14,10 @@ One might ask, "if this is such an expensive problem, why not do away with conte
 
 2. A weak content moderation strategy is a death sentence. Look at Parler, offering an alternative social media platform with minimal content moderation, was [dropped by Apple, Google app stores and AWS' cloud hosting services] for not abiding with their community guidelines (https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html).
 
-The value of a robust Covid-19 Tweet Fake News Detector serves (1) Twitter's bottom line, (2) public health, and (3) countries' strategies to return to a normal state fo affairs.
+The value of a robust Covid-19 Tweet Fake News Detector servers multiple interests: 
+  1. Twitter's bottom line
+  2. Public health
+  3. Countries' strategies to return to a normal state fo affairs
 
 ### Implementation Summary
 
