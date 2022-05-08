@@ -12,7 +12,7 @@ One might ask, "if this is such an expensive problem, why not do away with conte
 
 1. The reality is, content shared on social media has real-world implications. This has become evident since the start of the Covid-19 pandemic, with online misinformation about the seriousness of the virus and innacurate information ranging from treatments to  vaccinations being linked to ["early Covid-19 vaccination hesitancy and refusal"](https://www.nature.com/articles/s41598-022-10070-w). This is a reason why the World Health [Organization (WHO) has termed this the "Infodemic"](https://onu.delegfrance.org/IMG/pdf/cross-regional_statement_on_infodemic_final_with_all_endorsements.pdf). Being able to accurately flag misleading information on Covid-19 is therefore vital for public health and countries' strategies to return to a normal state fo affairs.
 
-2. A weak content moderation strategy is a death sentence. Look at Parler, offering an alternative social media platform with minimal content moderation, was [dropped by Apple, Google app stores and AWS' cloud hosting services] for not abiding with their community guidelines (https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html).
+2. A weak content moderation strategy is a death sentence. Look at Parler, an alternative social media platform offering users an experience with minimal content moderation, was [dropped by Apple, Google app stores and AWS' cloud hosting services](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html) for not abiding with their community guidelines.
 
 The value of a robust Covid-19 Tweet Fake News Detector servers multiple interests: 
   1. Twitter's bottom line
