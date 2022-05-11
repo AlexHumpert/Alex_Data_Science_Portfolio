@@ -10,7 +10,7 @@ Any feedback is much appreciated! Feek free to email me @ humpertalex@gmail.com 
 
 ### Business Value
 
-The bulk of content moderation by Twitter is done by human moderators. According to CNCB, this is a [billion dollar solution](https://www.cnbc.com/2021/02/27/content-moderation-on-social-media.html) for social media platforms like Twitter, Facebook and Youtube. Replacing human moderators with automated processes would therefore present significant cost savings for Twitter. 
+The bulk of content moderation by Twitter is done by human moderators. According to CNBC, this is a [billion dollar solution](https://www.cnbc.com/2021/02/27/content-moderation-on-social-media.html) for social media platforms like Twitter, Facebook and Youtube. Replacing human moderators with automated processes would therefore present significant cost savings for Twitter. 
 
 One might ask, "if this is such an expensive problem, why not do away with content moderation all together?" There are two issues with this: 
 
