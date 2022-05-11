@@ -1,6 +1,10 @@
 # Data Science Portfolio
 
-Portfolio of Data Science Projects - Machine Learning Projects (Python)
+Hi there! My name is Alex, my goal is to deepen my experience in machine learning by learning from experienced and driven individuals who are passionate about the data products they are building. Below are a few of the projects I have worked in the past couple of months for your enjoyment!
+
+I am on a mission to continue to get my hands dirty working on new problems that push my learnings to the next level. Over the coming months my goal is to add a project in the domains of NLP, Social Network Analysis and Deep Learning. 
+
+Any feedback is much appreciated! Feek free to email me @ humpertalex@gmail.com or connect on [linked-in](https://www.linkedin.com/in/alex-humpert/) to talk about Data Science stuff or big problems in the world :) 
 
 ## [Project 1: Pyspark - Covid-19 Tweet Fake News Detector, Binary Classification](https://github.com/AlexHumpert/Covid_19_Tweet_Fake_News_Detection)
 
